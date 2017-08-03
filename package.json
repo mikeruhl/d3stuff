@@ -1,0 +1,20 @@
+{
+  "name": "d3-map",
+  "version": "1.0.0",
+  "dependencies": {
+    "topojson": "3.0.0"
+  },
+  "description": "D3-Map Pluralsight Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3",
+    "map",
+    "json",
+    "cartography"
+  ],
+  "author": "Mike Ruhl",
+  "license": "ISC"
+}

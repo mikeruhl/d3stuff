@@ -60,3 +60,6 @@ typings/
 
 # ===== End Node.gitignore =====
 
+DS_Store
+build
+demoFiles
